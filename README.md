@@ -19,4 +19,4 @@
     - The accyract us 0.7256. Which is worse and still have not reached the target accuracy of the model.
     - ![image](https://user-images.githubusercontent.com/82785321/131383167-c2965b38-b3f4-4c2d-8e5a-7a16877f6ae6.png)
 ## Summary:
-  - 
+  - The first model we use did not reach the targe model performace. After we tried increase the number of layers and neurons, and change the activation function, the performace get worse. It is recommend to check the binning values and regroup. The reprocessed data in the training and testing datasets will change and the results might improved.
