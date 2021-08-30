@@ -10,9 +10,13 @@
     - There are 81 neurons. 
     - There are 2 layers.  
     - Relu and Sigmoid function are used.
-    - https://courses.bootcampspot.com/courses/583/assignments/12055?module_item_id=192937
+    - ![image](https://user-images.githubusercontent.com/82785321/131382626-74edddba-d567-44f4-8a27-ab6d41c6c642.png)
     - The accuracy is 0.7257, which did not reach the target model performance.
     - ![image](https://user-images.githubusercontent.com/82785321/131382562-e12f67ce-64ea-4fb9-a34f-5649d7441f4e.png)
-    - 
+    - Additional layer and neurons are added to increase the performance.
+    - ![image](https://user-images.githubusercontent.com/82785321/131383049-e8fd53dd-ee2b-47f9-be58-fc88596f43ed.png)
+    - Changing the activation function did not increase the accuracy of the model.
+    - The accyract us 0.7256. Which is worse and still have not reached the target accuracy of the model.
+    - ![image](https://user-images.githubusercontent.com/82785321/131383167-c2965b38-b3f4-4c2d-8e5a-7a16877f6ae6.png)
 ## Summary:
   - 
